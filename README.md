@@ -42,6 +42,16 @@ from the **NSE website**.
 
 ---
 
+### Tech Stack
+
+- **Language**: Python 3
+- **Data & analysis**: pandas, numpy
+- **Visualizations**: matplotlib, seaborn
+- **Web UI**: Streamlit
+- **Reporting**: reportlab (PDF generation)
+
+---
+
 ### Project Structure
 
 ```text
